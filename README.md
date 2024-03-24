@@ -19,6 +19,7 @@
 - [Magento to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/205-932-magento-to-virtuemart-migration-tool.html#/72-entities-1000)
 - [MarketPress to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/578-2442-marketpress-to-virtuemart-migration-tool.html#/72-entities-1000)
 - [OpenCart to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/206-937-opencart-to-virtuemart-migration-tool.html#/72-entities-1000)
+- [osCMax to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/1203-11557-oscmax-to-virtuemart-migration-tool.html#/72-entities-1000)
 - [osCommerce to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/207-942-oscommerce-to-virtuemart-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/208-947-oxid-eshop-to-virtuemart-migration-tool.html#/72-entities-1000)
 - [PrestaShop to VirtueMart Migration](https://d2d-soft.com/virtuemart-migration/209-952-prestashop-to-virtuemart-migration-tool.html#/72-entities-1000)
@@ -53,6 +54,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
